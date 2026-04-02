@@ -13,6 +13,7 @@ __User__ = "Alex" # this is what is displayed on the leaderboard
 
 
 # My extras for this game is that the camera follows the player and the timer
+# This game doesn't have lives but upon beating the game shows the leaderboard
 import pygame
 from player import Player
 from JumpPlatform import JumpPlatform

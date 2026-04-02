@@ -8,8 +8,8 @@ class Player(pygame.sprite.Sprite):
         self.image = pygame.Surface((80, 110))
         self.rect = self.image.get_rect()
         self.rect.y = min_h
-        self.rect.x = 400
-        self.rect.y = -10300
+        # self.rect.x = 400
+        # self.rect.y = -10300
         frame1 = self.load_and_scale("adventure_boy/sprites/adventBoy_jump.png")
         frame2 = self.load_and_scale("adventure_boy/sprites/adventBoy_stand1.png")
         frame3 = self.load_and_scale("adventure_boy/sprites/adventBoy_stand2.png")
