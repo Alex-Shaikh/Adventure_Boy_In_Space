@@ -1,3 +1,1 @@
-HELLO PLEASE READ THIS BEFORE GRADING. 
-In the player.py file I had it set to teleport the player up for testing purposes. Disable this if you want to play. Comment out lines 11 and 12. 
-Thank You
+Adventure Boy in Space is set in the cold war. The United States is losing the space race, so they call in Adventure Boy. Because of these circumstances, WASD is not supported as we do are against the communists. Have fun! Only use R if you are weak.
